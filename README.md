@@ -4,3 +4,4 @@ This project is made to assist the drivers in night-time conditions by taillight
 1. Tailight detection code.
 2. Headlight detection code.
 3. Outputs.
+4. Sample Images.
